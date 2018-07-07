@@ -1,4 +1,4 @@
-update=18/06/2018 15:18:28
+update=25/06/2018 21:10:25
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,4 @@ LibName32=valves
 LibName33=C:/Users/Thinkpad/Desktop/Electronics/kicad_simbolos/rpi_a _b _2b_hat
 LibName34=C:/Users/Thinkpad/Desktop/Electronics/kicad_simbolos/SparkFun-AnalogIC
 LibName35=C:/Users/Thinkpad/Desktop/Electronics/kicad_simbolos/SparkFun-DigitalIC
+LibName36=C:/Users/Thinkpad/Documents/Electronica/Simbolos KICAD/SparkFun-PowerIC
