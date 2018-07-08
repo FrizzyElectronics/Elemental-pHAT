@@ -333,8 +333,6 @@ Text Label 8000 3800 0    39   ~ 0
 SER3
 Text Label 8000 3900 0    39   ~ 0
 SER4
-Text Label 8000 4000 0    39   ~ 0
-SER5
 Text Label 8000 4100 0    39   ~ 0
 SER6
 Text Label 8000 4200 0    39   ~ 0
@@ -1767,8 +1765,6 @@ Wire Wire Line
 	2200 1000 2200 1100
 Connection ~ 2150 1000
 Wire Wire Line
-	4900 1350 5400 1350
-Wire Wire Line
 	5150 1350 5150 1600
 Wire Wire Line
 	4900 1450 5150 1450
@@ -1861,4 +1857,8 @@ NoConn ~ 9250 4100
 NoConn ~ 9250 4200
 NoConn ~ 9250 4300
 NoConn ~ 9400 2000
+Wire Wire Line
+	4900 1350 5400 1350
+Text Label 8000 4000 0    39   ~ 0
+SER5
 $EndSCHEMATC
